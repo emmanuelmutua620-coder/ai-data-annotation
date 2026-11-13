@@ -1,21 +1,47 @@
-# AI Data Annotation
+# AI Data Annotation Portfolio
 
-This repository is a place to demonstrate how annotation instructions are interpreted, labels are applied consistently, and completed annotations are checked for quality. Use only datasets you own, public datasets with compatible terms, or material you have permission to publish.
+This repository showcases practical knowledge of AI data annotation, data labelling, classification, annotation guidelines, and quality assurance.
 
-## Contents
-- `docs/annotation-workflow.md` — preparation, labelling, and QA workflow.
-- `docs/annotation-guideline-template.md` — project-specific instruction template.
-- `docs/label-schema-template.csv` — define labels and decision rules.
-- `templates/annotation-review-log.csv` — record quality review findings.
-- `examples/fictional-annotation-demo.csv` — small invented text example.
-- `case-study/CASE-STUDY.md` — write-up template for a real or practice project.
+## Skills Demonstrated
 
-## Annotation principles
-- Follow the exact project guideline, not personal assumptions.
-- Use only approved labels and formats.
-- Flag ambiguous or low-quality items for review.
-- Keep labels consistent across similar examples.
-- Record disagreements and guideline clarifications.
+- Data annotation and labelling
+- Text classification
+- Label schema development
+- Annotation guideline interpretation
+- Data consistency and validation
+- Annotation quality assurance
+- Error identification and review
 
-## Scope note
-The example is a simple text-classification demonstration, not a claim of completed production AI training or model development. Add image, video, audio, or LiDAR samples only when you have permission and can safely share them.
+## Repository Contents
+
+| File | Description |
+|---|---|
+| `annotation-guideline-template.md` | Annotation instruction template |
+| `annotation-workflow.md` | Step-by-step annotation workflow |
+| `label-schema-template.csv` | Label definitions and decision rules |
+| `annotation-review-log.csv` | Annotation quality review log |
+| `fictional-annotation-demo.csv` | Fictional annotation dataset |
+| `CASE-STUDY.md` | Project case study template |
+
+## Annotation Workflow
+
+1. Review project instructions.
+2. Understand approved labels and categories.
+3. Examine the data to be annotated.
+4. Apply labels consistently.
+5. Flag unclear or ambiguous examples.
+6. Review completed annotations for accuracy.
+7. Document errors and quality findings.
+
+## Data Privacy
+
+All demonstration data is fictional. No confidential employer or client datasets are published.
+
+## Scope
+
+This repository demonstrates annotation workflows and documentation. It does not claim production AI model development.
+
+## Contact
+
+- LinkedIn: [Emmanuel Mutua](https://www.linkedin.com/in/emmanuel-mutua-4140833b3)
+- Location: Kenya
