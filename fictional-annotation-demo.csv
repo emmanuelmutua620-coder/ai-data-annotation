@@ -1,0 +1,4 @@
+﻿Item ID,Text,Label,Rationale
+TXT-DEMO-001,The delivery arrived earlier than expected.,Positive,The statement expresses satisfaction.
+TXT-DEMO-002,The package has not arrived.,Negative,The statement reports an unresolved problem.
+TXT-DEMO-003,The parcel is scheduled for delivery on Friday.,Neutral,The statement is factual without clear sentiment.
